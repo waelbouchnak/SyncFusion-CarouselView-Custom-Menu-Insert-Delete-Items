@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Syncfusion.SfCarousel.iOS</name>
+    </assembly>
+    <members>
+        <member name="T:Syncfusion.SfCarousel.iOS.SFCarouselViewMode">
+             <summary>
+             Contains the values for the view mode enumeration that about to layout based on user input.
+             </summary>
+            </member>
+        <member name="F:Syncfusion.SfCarousel.iOS.SFCarouselViewMode.SFCarouselViewModeDefault">
+             <summary>
+             Layouts the control in an 3D layered structure with rotation angle specified.
+             </summary>
+            </member>
+        <member name="F:Syncfusion.SfCarousel.iOS.SFCarouselViewMode.SFCarouselViewModeLinear">
+             <summary>
+             Layouts the control in a horizontal Flat layout.
+             </summary>
+            </member>
+    </members>
+</doc>

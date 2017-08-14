@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<menu android:id="@+id/MenuCust" xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+ 
+   <item android:id="@+id/action_Insertbutton" android:title="Insert Item"  android:showAsAction="ifRoom"   />
+  <item android:id="@+id/action_Deletebutton" android:title="Delete Item"  android:showAsAction="ifRoom" />
+
+</menu>
+<!--android:icon="@drawable/nexticon"-->
